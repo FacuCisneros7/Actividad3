@@ -1,0 +1,45 @@
+* {
+    box-sizing: border-box;
+}
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 80%;
+    min-height: 100vh;
+    margin: 0 auto;
+    font-family: Arial, sans-serif;
+    font-size: 100%;
+}
+
+header h1 {
+    margin-bottom: 5%;
+    font-size: 175%;
+}
+
+h2 {
+    font-size: 112.5%;
+    margin-bottom: 0.5%;
+}
+
+section {
+    margin-bottom: 5%;
+}
+
+.competencias {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.imagen_institucion {
+    margin-top: 1%;
+    width: 50%;
+    height: auto;
+    border: 0.1rem solid black;
+    border-radius: 0.4rem;
+}
