@@ -46,6 +46,7 @@ section {
     width: 40%;
     border: 0.1rem solid black;
     background-color: #91fff6;
+    border-radius: 1rem;
 }
 
 h2{
@@ -66,6 +67,7 @@ article {
     margin-bottom: 5rem;
     padding: 2% 3%;
     border: 0.1rem solid black;
+    border-radius: 1rem;
     background-color: #91fff6;
     flex-direction: column;
     display: flex;
